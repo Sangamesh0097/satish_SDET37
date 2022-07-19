@@ -8,7 +8,7 @@ public class PracticeTest
     @Test
     public  void animalTest () 
 	{
-		System.out.println(" TYSS 1 ");
+		System.out.println(" TY 2222");
 		
 	}
     
