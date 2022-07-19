@@ -11,11 +11,6 @@ public class Practice3Test {
 
 	}
 	
-	@Test
 	
-	public void Tysk() 
-	{
-		System.out.println("Jspiders");
-	}
 
 }
