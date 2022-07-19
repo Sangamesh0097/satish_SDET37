@@ -7,7 +7,7 @@ public class Practice22Test {
 	@Test
 	public  void DaughterTest() 
 	{
-		System.out.println(" Shravya");
+		System.out.println(" Shravya daughter ");
 		// TODO Auto-generated method stub
 
 	}
