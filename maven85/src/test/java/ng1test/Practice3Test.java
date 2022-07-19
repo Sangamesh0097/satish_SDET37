@@ -7,7 +7,7 @@ public class Practice3Test {
 	@Test
 	public  void Tyss()
 	{
-		System.out.println("Qspiders");
+		System.out.println("");
 
 	}
 	
